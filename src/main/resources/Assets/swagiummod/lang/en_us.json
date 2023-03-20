@@ -1,0 +1,20 @@
+{
+  "item.swagiummod.swagium": "Swagium Ingot",
+  "item.swagiummod.raw_swagium": "Raw Swagium",
+  "item.swagiummod.eight_ball": "Swagium Eight Ball",
+
+  "block.swagiummod.swagium_block": "Block Of Swagium",
+  "block.swagiummod.swagium_ore": "Swagium Ore",
+  "block.swagiummod.deepslate_swagium_ore": "Deepslate Swagium Ore",
+
+  "block.swagiummod.swagium_log": "Swagium Log",
+  "block.swagiummod.stripped_swagium_log": "Stripped Swagium Log",
+  "block.swagiummod.swagium_wood": "Swagium Wood",
+  "block.swagiummod.stripped_swagium_wood": "Stripped Swagium Wood",
+  "block.swagiummod.swagium_planks": "Swagium Planks",
+  "block.swagiummod.swagium_sapling": "Swagium Sapling",
+  "block.swagiummod.swagium_leaves": "Swagium Leaves",
+
+
+  "creativemodetab.swagium_tab": "Swagium Tab"
+}

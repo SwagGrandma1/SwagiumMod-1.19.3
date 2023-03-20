@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "swagiummod:swagium_log",
+    "swagiummod:stripped_swagium_log",
+    "swagiummod:swagium_wood",
+    "swagiummod:stripped_swagium_wood"
+  ]
+}
